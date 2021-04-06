@@ -1,0 +1,32 @@
+/* 
+border: 3px solid white; 
+*/
+@media screen and (max-width:600px)
+{
+    header .container{
+        display: flex;
+        flex-direction: column;   
+         
+        
+    }    
+    .botoes{
+        
+        display: flex;
+        flex-direction: column;     
+        width: 200px;   
+        padding: 5px;   
+        margin-bottom: 10px;
+    }
+    
+    
+
+    
+    
+}
+
+
+
+.botoes .botao{
+    margin-top: 5px;
+}
+
